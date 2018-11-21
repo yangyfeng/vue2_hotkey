@@ -1,0 +1,23 @@
+{
+  "name": "v-hotkey-yyf",
+  "version": "0.1.1",
+  "description": "vue hotkey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangyufeng96/vue.hotkey.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-cli"
+  ],
+  "author": "yangyufeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangyufeng96/vue.hotkey/issues"
+  },
+  "homepage": "https://github.com/yangyufeng96/vue.hotkey#readme"
+}
