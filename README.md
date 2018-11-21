@@ -45,13 +45,26 @@ export default {
 ```
 ### 3、参数详解
 
-**keymap：**
+- **keymap：**
 
-类型 Object
-eg：'ctrl+enter': this.keymaphandler [键位]:[回调]
+  类型:Object
+  eg:'ctrl+enter': this.keymaphandler [键位]:[回调]
 
+- **isfull：**
 
-**isfull：**
+  类型:Boolean
+  eg:isfull:false [全局可用即document/绑定到当前的元素]
 
-类型 Boolean
-eg: isfull:false [全局可用即document/绑定到当前的元素]
+## 事件函数
+
+- keydown (as default) 
+- keyup
+
+## 组合键
+
+使用以下一个或多个键来激活热键
+
+- ctrl
+- alt
+- shift
+- meta (windows / command)
